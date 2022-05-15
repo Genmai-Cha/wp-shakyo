@@ -24,5 +24,5 @@ if(! defined('ABSPATH')) {
 }
 
 /*
-* The error_reporting() function can be deisabled in php.ini. 
+* The error_reporting() function can be deisabled in php.ini. On system where that is the 
 */
